@@ -1,0 +1,28 @@
+.height{
+    height: 100%;
+    min-height: 700px;
+}
+.p1{
+    line-height: 25px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top:16px;
+    align-items: end;
+    display: flex;
+}
+.view{
+  border: 1px solid;
+  padding: 0 24px;
+  font-size: 15px;
+  font-weight: bold;
+  width:115px;
+  height:52px;
+  display: inline-flex;
+  align-items: center;
+  margin-top: 32px;
+  align-self: end;
+  color: black;
+}
+.logo{
+    align-content: last baseline;
+}
